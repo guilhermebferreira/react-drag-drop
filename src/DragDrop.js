@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Dragula from 'react-dragula';
+import './DragDrop.css';
 
  
 
